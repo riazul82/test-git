@@ -1,0 +1,7 @@
+Hello! This is a text file!
+basename
+dirname
+join
+resolve
+isAbsolute
+parse
