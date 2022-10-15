@@ -7,3 +7,4 @@ emitter.once('fire', () => {
 
 emitter.emit('fire');
 emitter.emit('fire');
+console.log('Hello');
